@@ -1,0 +1,14 @@
+{
+  "name": "slot-machine",
+  "version": "1.0.0",
+  "description": "Learning JS by building a Slot Machine",
+  "main": "slot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tech with Tim",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
