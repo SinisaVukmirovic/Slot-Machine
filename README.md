@@ -3,5 +3,5 @@
 [X] collect the bet amount
 [X] spin the slot machine
 [X] check if the user won
-[ ] give the user their winnings
-[ ] play agian ?
+[X] give the user their winnings
+[X] play agian ?
